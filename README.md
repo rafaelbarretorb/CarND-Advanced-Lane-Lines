@@ -1,7 +1,5 @@
 ## Project Final Video
 
-### Path Planning Algorithms demonstration using PyGame
-
 ![](gifs/project5_final_video.gif)
 
 Rafael Barreto
