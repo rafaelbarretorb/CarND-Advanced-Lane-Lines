@@ -1,3 +1,11 @@
+## Project Final Video
+
+### Path Planning Algorithms demonstration using PyGame
+
+![](gifs/project5_final_video.gif)
+
+Rafael Barreto
+
 ## Advanced Lane Finding
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
